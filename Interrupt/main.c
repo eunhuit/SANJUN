@@ -1,5 +1,5 @@
 /*
- * GccApplication2.c
+ * GccApplication1.c
  *
  * Created: 2024-09-10 오전 11:32:53
  * Author : user
