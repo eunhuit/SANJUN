@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include <util/delay.h>
-
+// 0 = 0.7, 90 = 1.5
 
 int main(void)
 {
