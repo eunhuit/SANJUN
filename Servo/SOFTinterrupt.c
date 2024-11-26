@@ -13,11 +13,13 @@ int main(void)
 	sei();
     while (1) 
     {
-		for(int i=145; i < 554; i++) {
-			OCR1A = i;
-			_delay_ms(10);
+	for(int i=145; i < 554; i++) {
+		OCR1A = i;
+		_delay_ms(10);
+		}
+	for(int i=553; i > 146; i--) {
+		OCR1A = i;
+		_delay_ms(10);
+		}
     }
 }
-}
-
-
